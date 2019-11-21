@@ -1,0 +1,992 @@
+[
+  {
+    "id": 798544,
+    "name": "Polska",
+    "country": "PL",
+    "coord": {
+      "lon": 20,
+      "lat": 52
+    }
+  },
+  {
+    "id": 3094325,
+    "name": "Kuchary",
+    "country": "PL",
+    "coord": {
+      "lon": 19.383329,
+      "lat": 52.150002
+    }
+  },
+  {
+    "id": 3082707,
+    "name": "Wałbrzych",
+    "country": "PL",
+    "coord": {
+      "lon": 16.284321,
+      "lat": 50.771412
+    }
+  },
+  {
+    "id": 3091150,
+    "name": "Nakło nad Notecią",
+    "country": "PL",
+    "coord": {
+      "lon": 17.60181,
+      "lat": 53.142139
+    }
+  },
+  {
+    "id": 7530966,
+    "name": "Włocławek",
+    "country": "PL",
+    "coord": {
+      "lon": 19.060829,
+      "lat": 52.665379
+    }
+  },
+  {
+    "id": 7531696,
+    "name": "Świdwin",
+    "country": "PL",
+    "coord": {
+      "lon": 15.7973,
+      "lat": 53.7742
+    }
+  },
+  {
+    "id": 3089658,
+    "name": "Oświęcim",
+    "country": "PL",
+    "coord": {
+      "lon": 19.210369,
+      "lat": 50.03437
+    }
+  },
+  {
+    "id": 3096472,
+    "name": "Katowice",
+    "country": "PL",
+    "coord": {
+      "lon": 19.02754,
+      "lat": 50.258419
+    }
+  },
+  {
+    "id": 3094802,
+    "name": "Kraków",
+    "country": "PL",
+    "coord": {
+      "lon": 19.91667,
+      "lat": 50.083328
+    }
+  },
+  {
+    "id": 3088171,
+    "name": "Poznań",
+    "country": "PL",
+    "coord": {
+      "lon": 16.92993,
+      "lat": 52.406921
+    }
+  },
+  {
+    "id": 7532652,
+    "name": "Bełchatów",
+    "country": "PL",
+    "coord": {
+      "lon": 19.3626,
+      "lat": 51.3545
+    }
+  },
+  {
+    "id": 7532438,
+    "name": "Świętochłowice",
+    "country": "PL",
+    "coord": {
+      "lon": 18.9102,
+      "lat": 50.297901
+    }
+  },
+  {
+    "id": 7530929,
+    "name": "Powiat sierpecki",
+    "country": "PL",
+    "coord": {
+      "lon": 19.71216,
+      "lat": 52.83353
+    }
+  },
+  {
+    "id": 7531863,
+    "name": "Jastrzębie-Zdrój",
+    "country": "PL",
+    "coord": {
+      "lon": 18.6005,
+      "lat": 49.960602
+    }
+  },
+  {
+    "id": 7531533,
+    "name": "Gostynin",
+    "country": "PL",
+    "coord": {
+      "lon": 19.46258,
+      "lat": 52.42424
+    }
+  },
+  {
+    "id": 3090990,
+    "name": "Niegowonice",
+    "country": "PL",
+    "coord": {
+      "lon": 19.42263,
+      "lat": 50.389091
+    }
+  },
+  {
+    "id": 3090285,
+    "name": "Ogrodzieniec",
+    "country": "PL",
+    "coord": {
+      "lon": 19.519871,
+      "lat": 50.451771
+    }
+  },
+  {
+    "id": 3093768,
+    "name": "Łazy",
+    "country": "PL",
+    "coord": {
+      "lon": 19.39465,
+      "lat": 50.427689
+    }
+  },
+  {
+    "id": 3081368,
+    "name": "Wrocław",
+    "country": "PL",
+    "coord": {
+      "lon": 17.033331,
+      "lat": 51.099998
+    }
+  },
+  {
+    "id": 3337493,
+    "name": "Województwo Łódzkie",
+    "country": "PL",
+    "coord": {
+      "lon": 19.5,
+      "lat": 51.5
+    }
+  },
+  {
+    "id": 758116,
+    "name": "Stopnica",
+    "country": "PL",
+    "coord": {
+      "lon": 20.937799,
+      "lat": 50.440182
+    }
+  },
+  {
+    "id": 764758,
+    "name": "Mikułowice",
+    "country": "PL",
+    "coord": {
+      "lon": 20.06139,
+      "lat": 51.351639
+    }
+  },
+  {
+    "id": 7532212,
+    "name": "Radom",
+    "country": "PL",
+    "coord": {
+      "lon": 21.156099,
+      "lat": 51.417198
+    }
+  },
+  {
+    "id": 7530747,
+    "name": "Powiat kozienicki",
+    "country": "PL",
+    "coord": {
+      "lon": 21.4958,
+      "lat": 51.639462
+    }
+  },
+  {
+    "id": 759245,
+    "name": "Sierzchów",
+    "country": "PL",
+    "coord": {
+      "lon": 21.119061,
+      "lat": 51.986809
+    }
+  },
+  {
+    "id": 7531413,
+    "name": "Jakubów",
+    "country": "PL",
+    "coord": {
+      "lon": 21.681141,
+      "lat": 52.23954
+    }
+  },
+  {
+    "id": 3337499,
+    "name": "Województwo Zachodniopomorskie",
+    "country": "PL",
+    "coord": {
+      "lon": 15.5,
+      "lat": 53.5
+    }
+  },
+  {
+    "id": 766023,
+    "name": "Łomżyca",
+    "country": "PL",
+    "coord": {
+      "lon": 22.03982,
+      "lat": 53.17382
+    }
+  },
+  {
+    "id": 7530931,
+    "name": "Powiat chojnicki",
+    "country": "PL",
+    "coord": {
+      "lon": 17.718821,
+      "lat": 53.800991
+    }
+  },
+  {
+    "id": 764312,
+    "name": "Mrągowo",
+    "country": "PL",
+    "coord": {
+      "lon": 21.305071,
+      "lat": 53.864368
+    }
+  },
+  {
+    "id": 7533313,
+    "name": "Lewin Brzeski",
+    "country": "PL",
+    "coord": {
+      "lon": 17.630301,
+      "lat": 50.754501
+    }
+  },
+  {
+    "id": 3084052,
+    "name": "Swierczewo",
+    "country": "PL",
+    "coord": {
+      "lon": 16.883329,
+      "lat": 52.366669
+    }
+  },
+  {
+    "id": 759083,
+    "name": "Skopanie",
+    "country": "PL",
+    "coord": {
+      "lon": 21.57295,
+      "lat": 50.481899
+    }
+  },
+  {
+    "id": 3088161,
+    "name": "Prabuty",
+    "country": "PL",
+    "coord": {
+      "lon": 19.205469,
+      "lat": 53.755001
+    }
+  },
+  {
+    "id": 7530821,
+    "name": "Powiat kłodzki",
+    "country": "PL",
+    "coord": {
+      "lon": 16.611851,
+      "lat": 50.388821
+    }
+  },
+  {
+    "id": 7532745,
+    "name": "Przasnysz",
+    "country": "PL",
+    "coord": {
+      "lon": 20.885,
+      "lat": 53.018398
+    }
+  },
+  {
+    "id": 3093826,
+    "name": "Łasztownia",
+    "country": "PL",
+    "coord": {
+      "lon": 14.56667,
+      "lat": 53.416672
+    }
+  },
+  {
+    "id": 3080902,
+    "name": "Zagórzynek",
+    "country": "PL",
+    "coord": {
+      "lon": 18.082081,
+      "lat": 51.74049
+    }
+  },
+  {
+    "id": 766573,
+    "name": "Lednica Niemiecka",
+    "country": "PL",
+    "coord": {
+      "lon": 20.066669,
+      "lat": 49.98333
+    }
+  },
+  {
+    "id": 6690165,
+    "name": "Powiat wadowicki",
+    "country": "PL",
+    "coord": {
+      "lon": 19.48374,
+      "lat": 49.89032
+    }
+  },
+  {
+    "id": 7531689,
+    "name": "Piątnica",
+    "country": "PL",
+    "coord": {
+      "lon": 22.150299,
+      "lat": 53.215801
+    }
+  },
+  {
+    "id": 7532503,
+    "name": "Tarnobrzeg",
+    "country": "PL",
+    "coord": {
+      "lon": 21.681601,
+      "lat": 50.573639
+    }
+  },
+  {
+    "id": 7532344,
+    "name": "Żory",
+    "country": "PL",
+    "coord": {
+      "lon": 18.689199,
+      "lat": 50.038898
+    }
+  },
+  {
+    "id": 7532893,
+    "name": "Pyskowice",
+    "country": "PL",
+    "coord": {
+      "lon": 18.6007,
+      "lat": 50.391499
+    }
+  },
+  {
+    "id": 7533463,
+    "name": "Trzebiatów",
+    "country": "PL",
+    "coord": {
+      "lon": 15.2825,
+      "lat": 54.055698
+    }
+  },
+  {
+    "id": 3101425,
+    "name": "Ciechocino",
+    "country": "PL",
+    "coord": {
+      "lon": 18.35445,
+      "lat": 54.612179
+    }
+  },
+  {
+    "id": 7530890,
+    "name": "Powiat płocki",
+    "country": "PL",
+    "coord": {
+      "lon": 19.7857,
+      "lat": 52.554649
+    }
+  },
+  {
+    "id": 7530898,
+    "name": "Powiat przeworski",
+    "country": "PL",
+    "coord": {
+      "lon": 22.536819,
+      "lat": 50.08913
+    }
+  },
+  {
+    "id": 7532267,
+    "name": "Bielawa",
+    "country": "PL",
+    "coord": {
+      "lon": 16.6028,
+      "lat": 50.6754
+    }
+  },
+  {
+    "id": 7533405,
+    "name": "Żarów",
+    "country": "PL",
+    "coord": {
+      "lon": 16.4932,
+      "lat": 50.942799
+    }
+  },
+  {
+    "id": 7532312,
+    "name": "Trzebownisko",
+    "country": "PL",
+    "coord": {
+      "lon": 22.0774,
+      "lat": 50.124001
+    }
+  },
+  {
+    "id": 7533336,
+    "name": "Tyszowce",
+    "country": "PL",
+    "coord": {
+      "lon": 23.723499,
+      "lat": 50.624599
+    }
+  },
+  {
+    "id": 7532210,
+    "name": "Puławy",
+    "country": "PL",
+    "coord": {
+      "lon": 21.9772,
+      "lat": 51.426498
+    }
+  },
+  {
+    "id": 7532192,
+    "name": "Zamość",
+    "country": "PL",
+    "coord": {
+      "lon": 23.248501,
+      "lat": 50.721298
+    }
+  },
+  {
+    "id": 6690166,
+    "name": "Powiat wielicki",
+    "country": "PL",
+    "coord": {
+      "lon": 20.054939,
+      "lat": 49.985699
+    }
+  },
+  {
+    "id": 7533001,
+    "name": "Wieliczka",
+    "country": "PL",
+    "coord": {
+      "lon": 20.046,
+      "lat": 49.987801
+    }
+  },
+  {
+    "id": 7532300,
+    "name": "Starachowice",
+    "country": "PL",
+    "coord": {
+      "lon": 21.0716,
+      "lat": 51.0383
+    }
+  },
+  {
+    "id": 7533534,
+    "name": "Sokółka",
+    "country": "PL",
+    "coord": {
+      "lon": 23.5026,
+      "lat": 53.406799
+    }
+  },
+  {
+    "id": 7532815,
+    "name": "Siedlce",
+    "country": "PL",
+    "coord": {
+      "lon": 22.2757,
+      "lat": 52.161701
+    }
+  },
+  {
+    "id": 7532279,
+    "name": "Piastów",
+    "country": "PL",
+    "coord": {
+      "lon": 20.8463,
+      "lat": 52.185501
+    }
+  },
+  {
+    "id": 7531013,
+    "name": "Powiat olecki",
+    "country": "PL",
+    "coord": {
+      "lon": 22.41695,
+      "lat": 54.051289
+    }
+  },
+  {
+    "id": 7530865,
+    "name": "Powiat łukowski",
+    "country": "PL",
+    "coord": {
+      "lon": 22.240351,
+      "lat": 51.853649
+    }
+  },
+  {
+    "id": 7533497,
+    "name": "Łomianki",
+    "country": "PL",
+    "coord": {
+      "lon": 20.8939,
+      "lat": 52.333199
+    }
+  },
+  {
+    "id": 7533052,
+    "name": "Łęczna",
+    "country": "PL",
+    "coord": {
+      "lon": 22.885099,
+      "lat": 51.302502
+    }
+  },
+  {
+    "id": 7533050,
+    "name": "Łapy",
+    "country": "PL",
+    "coord": {
+      "lon": 22.8771,
+      "lat": 52.993698
+    }
+  },
+  {
+    "id": 7530741,
+    "name": "Powiat kraśnicki",
+    "country": "PL",
+    "coord": {
+      "lon": 22.14576,
+      "lat": 50.915352
+    }
+  },
+  {
+    "id": 7532072,
+    "name": "Kraśnik",
+    "country": "PL",
+    "coord": {
+      "lon": 22.213301,
+      "lat": 50.943401
+    }
+  },
+  {
+    "id": 7533415,
+    "name": "Konstancin-Jeziorna",
+    "country": "PL",
+    "coord": {
+      "lon": 21.1056,
+      "lat": 52.083801
+    }
+  },
+  {
+    "id": 6695624,
+    "name": "Warszawa",
+    "country": "PL",
+    "coord": {
+      "lon": 21.04191,
+      "lat": 52.23547
+    }
+  },
+  {
+    "id": 7530738,
+    "name": "Powiat hrubieszowski",
+    "country": "PL",
+    "coord": {
+      "lon": 23.86307,
+      "lat": 50.70776
+    }
+  },
+  {
+    "id": 773357,
+    "name": "Deblin",
+    "country": "PL",
+    "coord": {
+      "lon": 21.848289,
+      "lat": 51.55912
+    }
+  },
+  {
+    "id": 7530729,
+    "name": "Chełm",
+    "country": "PL",
+    "coord": {
+      "lon": 23.48971,
+      "lat": 51.135578
+    }
+  },
+  {
+    "id": 7531906,
+    "name": "Zawiercie",
+    "country": "PL",
+    "coord": {
+      "lon": 19.4704,
+      "lat": 50.505798
+    }
+  },
+  {
+    "id": 3081046,
+    "name": "Zabkowice Slaskie",
+    "country": "PL",
+    "coord": {
+      "lon": 16.812389,
+      "lat": 50.589691
+    }
+  },
+  {
+    "id": 7530984,
+    "name": "Tychy",
+    "country": "PL",
+    "coord": {
+      "lon": 19.0084,
+      "lat": 50.126499
+    }
+  },
+  {
+    "id": 7531734,
+    "name": "Turek",
+    "country": "PL",
+    "coord": {
+      "lon": 18.511499,
+      "lat": 52.016102
+    }
+  },
+  {
+    "id": 7530954,
+    "name": "Powiat czarnkowsko-trzcianecki",
+    "country": "PL",
+    "coord": {
+      "lon": 16.346729,
+      "lat": 52.928848
+    }
+  },
+  {
+    "id": 7533143,
+    "name": "Trzcianka",
+    "country": "PL",
+    "coord": {
+      "lon": 16.446501,
+      "lat": 53.042599
+    }
+  },
+  {
+    "id": 3084085,
+    "name": "Swidwin",
+    "country": "PL",
+    "coord": {
+      "lon": 15.77671,
+      "lat": 53.774639
+    }
+  },
+  {
+    "id": 7531589,
+    "name": "Starogard Gdański",
+    "country": "PL",
+    "coord": {
+      "lon": 18.526449,
+      "lat": 53.965469
+    }
+  },
+  {
+    "id": 7531080,
+    "name": "Powiat śremski",
+    "country": "PL",
+    "coord": {
+      "lon": 17.058531,
+      "lat": 52.061489
+    }
+  },
+  {
+    "id": 3085056,
+    "name": "Srem",
+    "country": "PL",
+    "coord": {
+      "lon": 17.015079,
+      "lat": 52.08868
+    }
+  },
+  {
+    "id": 3085807,
+    "name": "Skawina",
+    "country": "PL",
+    "coord": {
+      "lon": 19.82869,
+      "lat": 49.975239
+    }
+  },
+  {
+    "id": 7531338,
+    "name": "Sierpc",
+    "country": "PL",
+    "coord": {
+      "lon": 19.665211,
+      "lat": 52.85323
+    }
+  },
+  {
+    "id": 7530985,
+    "name": "Siemianowice Śląskie",
+    "country": "PL",
+    "coord": {
+      "lon": 19.023199,
+      "lat": 50.312309
+    }
+  },
+  {
+    "id": 7531610,
+    "name": "Rypin",
+    "country": "PL",
+    "coord": {
+      "lon": 19.40885,
+      "lat": 53.066212
+    }
+  },
+  {
+    "id": 7530790,
+    "name": "Rybnik",
+    "country": "PL",
+    "coord": {
+      "lon": 18.549259,
+      "lat": 50.110821
+    }
+  },
+  {
+    "id": 7531588,
+    "name": "Ruda Śląska",
+    "country": "PL",
+    "coord": {
+      "lon": 18.874241,
+      "lat": 50.270061
+    }
+  },
+  {
+    "id": 3087281,
+    "name": "Reda",
+    "country": "PL",
+    "coord": {
+      "lon": 18.34717,
+      "lat": 54.605282
+    }
+  },
+  {
+    "id": 7531844,
+    "name": "Radzionków",
+    "country": "PL",
+    "coord": {
+      "lon": 18.900999,
+      "lat": 50.4016
+    }
+  },
+  {
+    "id": 7531104,
+    "name": "Radlin",
+    "country": "PL",
+    "coord": {
+      "lon": 18.466009,
+      "lat": 50.04118
+    }
+  },
+  {
+    "id": 7533171,
+    "name": "Pleszew",
+    "country": "PL",
+    "coord": {
+      "lon": 17.7864,
+      "lat": 51.894001
+    }
+  },
+  {
+    "id": 7533061,
+    "name": "Nowy Tomyśl",
+    "country": "PL",
+    "coord": {
+      "lon": 16.133101,
+      "lat": 52.3111
+    }
+  },
+  {
+    "id": 7532873,
+    "name": "Myszków",
+    "country": "PL",
+    "coord": {
+      "lon": 19.3274,
+      "lat": 50.564602
+    }
+  },
+  {
+    "id": 3094788,
+    "name": "Krapkowice",
+    "country": "PL",
+    "coord": {
+      "lon": 17.965389,
+      "lat": 50.475151
+    }
+  },
+  {
+    "id": 7532538,
+    "name": "Koszalin",
+    "country": "PL",
+    "coord": {
+      "lon": 16.2166,
+      "lat": 54.2071
+    }
+  },
+  {
+    "id": 7532028,
+    "name": "Kościan",
+    "country": "PL",
+    "coord": {
+      "lon": 16.649401,
+      "lat": 52.083401
+    }
+  },
+  {
+    "id": 7533189,
+    "name": "Kluczbork",
+    "country": "PL",
+    "coord": {
+      "lon": 18.2204,
+      "lat": 50.974499
+    }
+  },
+  {
+    "id": 3097271,
+    "name": "Jelcz",
+    "country": "PL",
+    "coord": {
+      "lon": 17.32095,
+      "lat": 51.021019
+    }
+  },
+  {
+    "id": 3097528,
+    "name": "Jarocin",
+    "country": "PL",
+    "coord": {
+      "lon": 17.50256,
+      "lat": 51.97266
+    }
+  },
+  {
+    "id": 3098201,
+    "name": "Gryfice",
+    "country": "PL",
+    "coord": {
+      "lon": 15.20027,
+      "lat": 53.9165
+    }
+  },
+  {
+    "id": 3098619,
+    "name": "Gostynin",
+    "country": "PL",
+    "coord": {
+      "lon": 19.461941,
+      "lat": 52.429379
+    }
+  },
+  {
+    "id": 7531632,
+    "name": "Gniezno",
+    "country": "PL",
+    "coord": {
+      "lon": 17.603279,
+      "lat": 52.524921
+    }
+  },
+  {
+    "id": 3099169,
+    "name": "Glucholazy",
+    "country": "PL",
+    "coord": {
+      "lon": 17.383551,
+      "lat": 50.315048
+    }
+  },
+  {
+    "id": 3099180,
+    "name": "Głowno",
+    "country": "PL",
+    "coord": {
+      "lon": 19.715651,
+      "lat": 51.96463
+    }
+  },
+  {
+    "id": 7530814,
+    "name": "Bydgoszcz",
+    "country": "PL",
+    "coord": {
+      "lon": 18.0383,
+      "lat": 53.12973
+    }
+  },
+  {
+    "id": 7531378,
+    "name": "Bydgoszcz",
+    "country": "PL",
+    "coord": {
+      "lon": 18.0383,
+      "lat": 53.12973
+    }
+  },
+  {
+    "id": 3099654,
+    "name": "Fordon",
+    "country": "PL",
+    "coord": {
+      "lon": 18.170361,
+      "lat": 53.148209
+    }
+  },
+  {
+    "id": 3100974,
+    "name": "Czerwionka-Leszczyny",
+    "country": "PL",
+    "coord": {
+      "lon": 18.67762,
+      "lat": 50.15007
+    }
+  },
+  {
+    "id": 7531551,
+    "name": "Czeladź",
+    "country": "PL",
+    "coord": {
+      "lon": 19.08231,
+      "lat": 50.319191
+    }
+  }
+]

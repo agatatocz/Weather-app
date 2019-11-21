@@ -1,0 +1,1090 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots AppScreen default 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="sc-VigVT eZIqic"
+  >
+    <form
+      onSubmit={[Function]}
+    >
+      <input
+        className="sc-jTzLTM eVUHxZ"
+        defaultValue="Wrocław"
+        list="myDatalist"
+        onChange={[Function]}
+        type="text"
+      />
+      <datalist
+        id="myDatalist"
+      >
+        <option
+          value="Polska"
+        />
+        <option
+          value="Kuchary"
+        />
+        <option
+          value="Wałbrzych"
+        />
+        <option
+          value="Nakło nad Notecią"
+        />
+        <option
+          value="Włocławek"
+        />
+        <option
+          value="Świdwin"
+        />
+        <option
+          value="Oświęcim"
+        />
+        <option
+          value="Katowice"
+        />
+        <option
+          value="Kraków"
+        />
+        <option
+          value="Poznań"
+        />
+        <option
+          value="Bełchatów"
+        />
+        <option
+          value="Świętochłowice"
+        />
+        <option
+          value="Powiat sierpecki"
+        />
+        <option
+          value="Jastrzębie-Zdrój"
+        />
+        <option
+          value="Gostynin"
+        />
+        <option
+          value="Niegowonice"
+        />
+        <option
+          value="Ogrodzieniec"
+        />
+        <option
+          value="Łazy"
+        />
+        <option
+          value="Wrocław"
+        />
+        <option
+          value="Województwo Łódzkie"
+        />
+        <option
+          value="Stopnica"
+        />
+        <option
+          value="Mikułowice"
+        />
+        <option
+          value="Radom"
+        />
+        <option
+          value="Powiat kozienicki"
+        />
+        <option
+          value="Sierzchów"
+        />
+        <option
+          value="Jakubów"
+        />
+        <option
+          value="Województwo Zachodniopomorskie"
+        />
+        <option
+          value="Łomżyca"
+        />
+        <option
+          value="Powiat chojnicki"
+        />
+        <option
+          value="Mrągowo"
+        />
+        <option
+          value="Lewin Brzeski"
+        />
+        <option
+          value="Swierczewo"
+        />
+        <option
+          value="Skopanie"
+        />
+        <option
+          value="Prabuty"
+        />
+        <option
+          value="Powiat kłodzki"
+        />
+        <option
+          value="Przasnysz"
+        />
+        <option
+          value="Łasztownia"
+        />
+        <option
+          value="Zagórzynek"
+        />
+        <option
+          value="Lednica Niemiecka"
+        />
+        <option
+          value="Powiat wadowicki"
+        />
+        <option
+          value="Piątnica"
+        />
+        <option
+          value="Tarnobrzeg"
+        />
+        <option
+          value="Żory"
+        />
+        <option
+          value="Pyskowice"
+        />
+        <option
+          value="Trzebiatów"
+        />
+        <option
+          value="Ciechocino"
+        />
+        <option
+          value="Powiat płocki"
+        />
+        <option
+          value="Powiat przeworski"
+        />
+        <option
+          value="Bielawa"
+        />
+        <option
+          value="Żarów"
+        />
+        <option
+          value="Trzebownisko"
+        />
+        <option
+          value="Tyszowce"
+        />
+        <option
+          value="Puławy"
+        />
+        <option
+          value="Zamość"
+        />
+        <option
+          value="Powiat wielicki"
+        />
+        <option
+          value="Wieliczka"
+        />
+        <option
+          value="Starachowice"
+        />
+        <option
+          value="Sokółka"
+        />
+        <option
+          value="Siedlce"
+        />
+        <option
+          value="Piastów"
+        />
+        <option
+          value="Powiat olecki"
+        />
+        <option
+          value="Powiat łukowski"
+        />
+        <option
+          value="Łomianki"
+        />
+        <option
+          value="Łęczna"
+        />
+        <option
+          value="Łapy"
+        />
+        <option
+          value="Powiat kraśnicki"
+        />
+        <option
+          value="Kraśnik"
+        />
+        <option
+          value="Konstancin-Jeziorna"
+        />
+        <option
+          value="Warszawa"
+        />
+        <option
+          value="Powiat hrubieszowski"
+        />
+        <option
+          value="Deblin"
+        />
+        <option
+          value="Chełm"
+        />
+        <option
+          value="Zawiercie"
+        />
+        <option
+          value="Zabkowice Slaskie"
+        />
+        <option
+          value="Tychy"
+        />
+        <option
+          value="Turek"
+        />
+        <option
+          value="Powiat czarnkowsko-trzcianecki"
+        />
+        <option
+          value="Trzcianka"
+        />
+        <option
+          value="Swidwin"
+        />
+        <option
+          value="Starogard Gdański"
+        />
+        <option
+          value="Powiat śremski"
+        />
+        <option
+          value="Srem"
+        />
+        <option
+          value="Skawina"
+        />
+        <option
+          value="Sierpc"
+        />
+        <option
+          value="Siemianowice Śląskie"
+        />
+        <option
+          value="Rypin"
+        />
+        <option
+          value="Rybnik"
+        />
+        <option
+          value="Ruda Śląska"
+        />
+        <option
+          value="Reda"
+        />
+        <option
+          value="Radzionków"
+        />
+        <option
+          value="Radlin"
+        />
+        <option
+          value="Pleszew"
+        />
+        <option
+          value="Nowy Tomyśl"
+        />
+        <option
+          value="Myszków"
+        />
+        <option
+          value="Krapkowice"
+        />
+        <option
+          value="Koszalin"
+        />
+        <option
+          value="Kościan"
+        />
+        <option
+          value="Kluczbork"
+        />
+        <option
+          value="Jelcz"
+        />
+        <option
+          value="Jarocin"
+        />
+        <option
+          value="Gryfice"
+        />
+        <option
+          value="Gostynin"
+        />
+        <option
+          value="Gniezno"
+        />
+        <option
+          value="Glucholazy"
+        />
+        <option
+          value="Głowno"
+        />
+        <option
+          value="Bydgoszcz"
+        />
+        <option
+          value="Bydgoszcz"
+        />
+        <option
+          value="Fordon"
+        />
+        <option
+          value="Czerwionka-Leszczyny"
+        />
+        <option
+          value="Czeladź"
+        />
+      </datalist>
+      <button
+        className="sc-fjdhpX ibnYIv"
+        type="submit"
+      >
+        <i
+          className="fa fa-search"
+        />
+      </button>
+    </form>
+  </div>
+  <div
+    className="sc-bwzfXH jNvTJw"
+  >
+    <div
+      className="sc-ifAKCX fVKAHz"
+    >
+      <h1
+        className="sc-htpNat fZtigH"
+      >
+        Wrocław
+      </h1>
+      <h2
+        className="sc-bxivhb cvfAWp"
+      >
+        2019-11-18
+      </h2>
+    </div>
+    <div
+      className="sc-ifAKCX fVKAHz"
+    >
+      <p
+        className="sc-EHOje cFaqkp"
+      >
+        Teraz
+      </p>
+      <h1
+        className="sc-bZQynM gnVkRv"
+      >
+        15
+        °C
+      </h1>
+      <h1
+        className="sc-gzVnrw deJinG"
+      >
+        1020
+        hPa
+      </h1>
+    </div>
+  </div>
+  <div
+    className="sc-gqjmRU iBBwqV"
+  >
+    <div
+      className="sc-htoDjs BhpKT"
+    >
+      <img
+        alt=""
+        src="http://openweathermap.org/img/wn/04d@2x.png"
+      />
+      <h2
+        className="sc-dnqmqq ficJNe"
+      >
+        12:00
+      </h2>
+      <p
+        className="sc-iwsKbI fOtSEI"
+      >
+        2019-11-18
+      </p>
+      <h1
+        className="sc-gZMcBi bbajXv"
+      >
+        15
+        °C
+      </h1>
+    </div>
+    <div
+      className="sc-htoDjs BhpKT"
+    >
+      <img
+        alt=""
+        src="http://openweathermap.org/img/wn/10d@2x.png"
+      />
+      <h2
+        className="sc-dnqmqq ficJNe"
+      >
+        15:00
+      </h2>
+      <p
+        className="sc-iwsKbI fOtSEI"
+      >
+        2019-11-18
+      </p>
+      <h1
+        className="sc-gZMcBi bbajXv"
+      >
+        13
+        °C
+      </h1>
+    </div>
+    <div
+      className="sc-htoDjs BhpKT"
+    >
+      <img
+        alt=""
+        src="http://openweathermap.org/img/wn/11d@2x.png"
+      />
+      <h2
+        className="sc-dnqmqq ficJNe"
+      >
+        18:00
+      </h2>
+      <p
+        className="sc-iwsKbI fOtSEI"
+      >
+        2019-11-18
+      </p>
+      <h1
+        className="sc-gZMcBi bbajXv"
+      >
+        11
+        °C
+      </h1>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots AppScreen loading 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="sc-VigVT eZIqic"
+  >
+    <form
+      onSubmit={[Function]}
+    >
+      <input
+        className="sc-jTzLTM eVUHxZ"
+        defaultValue="Wrocław"
+        list="myDatalist"
+        onChange={[Function]}
+        type="text"
+      />
+      <datalist
+        id="myDatalist"
+      >
+        <option
+          value="Polska"
+        />
+        <option
+          value="Kuchary"
+        />
+        <option
+          value="Wałbrzych"
+        />
+        <option
+          value="Nakło nad Notecią"
+        />
+        <option
+          value="Włocławek"
+        />
+        <option
+          value="Świdwin"
+        />
+        <option
+          value="Oświęcim"
+        />
+        <option
+          value="Katowice"
+        />
+        <option
+          value="Kraków"
+        />
+        <option
+          value="Poznań"
+        />
+        <option
+          value="Bełchatów"
+        />
+        <option
+          value="Świętochłowice"
+        />
+        <option
+          value="Powiat sierpecki"
+        />
+        <option
+          value="Jastrzębie-Zdrój"
+        />
+        <option
+          value="Gostynin"
+        />
+        <option
+          value="Niegowonice"
+        />
+        <option
+          value="Ogrodzieniec"
+        />
+        <option
+          value="Łazy"
+        />
+        <option
+          value="Wrocław"
+        />
+        <option
+          value="Województwo Łódzkie"
+        />
+        <option
+          value="Stopnica"
+        />
+        <option
+          value="Mikułowice"
+        />
+        <option
+          value="Radom"
+        />
+        <option
+          value="Powiat kozienicki"
+        />
+        <option
+          value="Sierzchów"
+        />
+        <option
+          value="Jakubów"
+        />
+        <option
+          value="Województwo Zachodniopomorskie"
+        />
+        <option
+          value="Łomżyca"
+        />
+        <option
+          value="Powiat chojnicki"
+        />
+        <option
+          value="Mrągowo"
+        />
+        <option
+          value="Lewin Brzeski"
+        />
+        <option
+          value="Swierczewo"
+        />
+        <option
+          value="Skopanie"
+        />
+        <option
+          value="Prabuty"
+        />
+        <option
+          value="Powiat kłodzki"
+        />
+        <option
+          value="Przasnysz"
+        />
+        <option
+          value="Łasztownia"
+        />
+        <option
+          value="Zagórzynek"
+        />
+        <option
+          value="Lednica Niemiecka"
+        />
+        <option
+          value="Powiat wadowicki"
+        />
+        <option
+          value="Piątnica"
+        />
+        <option
+          value="Tarnobrzeg"
+        />
+        <option
+          value="Żory"
+        />
+        <option
+          value="Pyskowice"
+        />
+        <option
+          value="Trzebiatów"
+        />
+        <option
+          value="Ciechocino"
+        />
+        <option
+          value="Powiat płocki"
+        />
+        <option
+          value="Powiat przeworski"
+        />
+        <option
+          value="Bielawa"
+        />
+        <option
+          value="Żarów"
+        />
+        <option
+          value="Trzebownisko"
+        />
+        <option
+          value="Tyszowce"
+        />
+        <option
+          value="Puławy"
+        />
+        <option
+          value="Zamość"
+        />
+        <option
+          value="Powiat wielicki"
+        />
+        <option
+          value="Wieliczka"
+        />
+        <option
+          value="Starachowice"
+        />
+        <option
+          value="Sokółka"
+        />
+        <option
+          value="Siedlce"
+        />
+        <option
+          value="Piastów"
+        />
+        <option
+          value="Powiat olecki"
+        />
+        <option
+          value="Powiat łukowski"
+        />
+        <option
+          value="Łomianki"
+        />
+        <option
+          value="Łęczna"
+        />
+        <option
+          value="Łapy"
+        />
+        <option
+          value="Powiat kraśnicki"
+        />
+        <option
+          value="Kraśnik"
+        />
+        <option
+          value="Konstancin-Jeziorna"
+        />
+        <option
+          value="Warszawa"
+        />
+        <option
+          value="Powiat hrubieszowski"
+        />
+        <option
+          value="Deblin"
+        />
+        <option
+          value="Chełm"
+        />
+        <option
+          value="Zawiercie"
+        />
+        <option
+          value="Zabkowice Slaskie"
+        />
+        <option
+          value="Tychy"
+        />
+        <option
+          value="Turek"
+        />
+        <option
+          value="Powiat czarnkowsko-trzcianecki"
+        />
+        <option
+          value="Trzcianka"
+        />
+        <option
+          value="Swidwin"
+        />
+        <option
+          value="Starogard Gdański"
+        />
+        <option
+          value="Powiat śremski"
+        />
+        <option
+          value="Srem"
+        />
+        <option
+          value="Skawina"
+        />
+        <option
+          value="Sierpc"
+        />
+        <option
+          value="Siemianowice Śląskie"
+        />
+        <option
+          value="Rypin"
+        />
+        <option
+          value="Rybnik"
+        />
+        <option
+          value="Ruda Śląska"
+        />
+        <option
+          value="Reda"
+        />
+        <option
+          value="Radzionków"
+        />
+        <option
+          value="Radlin"
+        />
+        <option
+          value="Pleszew"
+        />
+        <option
+          value="Nowy Tomyśl"
+        />
+        <option
+          value="Myszków"
+        />
+        <option
+          value="Krapkowice"
+        />
+        <option
+          value="Koszalin"
+        />
+        <option
+          value="Kościan"
+        />
+        <option
+          value="Kluczbork"
+        />
+        <option
+          value="Jelcz"
+        />
+        <option
+          value="Jarocin"
+        />
+        <option
+          value="Gryfice"
+        />
+        <option
+          value="Gostynin"
+        />
+        <option
+          value="Gniezno"
+        />
+        <option
+          value="Glucholazy"
+        />
+        <option
+          value="Głowno"
+        />
+        <option
+          value="Bydgoszcz"
+        />
+        <option
+          value="Bydgoszcz"
+        />
+        <option
+          value="Fordon"
+        />
+        <option
+          value="Czerwionka-Leszczyny"
+        />
+        <option
+          value="Czeladź"
+        />
+      </datalist>
+      <button
+        className="sc-fjdhpX ibnYIv"
+        type="submit"
+      >
+        <i
+          className="fa fa-search"
+        />
+      </button>
+    </form>
+  </div>
+  <div
+    className="sc-bwzfXH jNvTJw"
+  >
+    <div
+      className="sc-ifAKCX fVKAHz"
+    >
+      <h1
+        className="sc-htpNat fZtigH"
+      >
+        Wrocław
+      </h1>
+      <h2
+        className="sc-bxivhb cvfAWp"
+      >
+        2019-11-18
+      </h2>
+    </div>
+    <div
+      className="sc-ifAKCX fVKAHz"
+    >
+      <i
+        className="sc-bdVaJa cBmIQP fa fa-sun-o fa-spin fa-2x"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots CurrentInfo default 1`] = `
+<div
+  className="sc-bwzfXH jNvTJw"
+>
+  <div
+    className="sc-ifAKCX fVKAHz"
+  >
+    <h1
+      className="sc-htpNat fZtigH"
+    >
+      Wrocław
+    </h1>
+    <h2
+      className="sc-bxivhb cvfAWp"
+    >
+      2019-11-18
+    </h2>
+  </div>
+  <div
+    className="sc-ifAKCX fVKAHz"
+  >
+    <p
+      className="sc-EHOje cFaqkp"
+    >
+      Teraz
+    </p>
+    <h1
+      className="sc-bZQynM gnVkRv"
+    >
+      14
+      °C
+    </h1>
+    <h1
+      className="sc-gzVnrw deJinG"
+    >
+      1007
+      hPa
+    </h1>
+  </div>
+</div>
+`;
+
+exports[`Storyshots CurrentInfo loading 1`] = `
+<div
+  className="sc-bwzfXH jNvTJw"
+>
+  <div
+    className="sc-ifAKCX fVKAHz"
+  >
+    <h1
+      className="sc-htpNat fZtigH"
+    >
+      Wrocław
+    </h1>
+    <h2
+      className="sc-bxivhb cvfAWp"
+    >
+      2019-11-18
+    </h2>
+  </div>
+  <div
+    className="sc-ifAKCX fVKAHz"
+  >
+    <i
+      className="sc-bdVaJa cBmIQP fa fa-sun-o fa-spin fa-2x"
+    />
+  </div>
+</div>
+`;
+
+exports[`Storyshots Forecast default 1`] = `
+<div
+  className="sc-gqjmRU iBBwqV"
+>
+  <div
+    className="sc-htoDjs BhpKT"
+  >
+    <img
+      alt=""
+      src="http://openweathermap.org/img/wn/04d@2x.png"
+    />
+    <h2
+      className="sc-dnqmqq ficJNe"
+    >
+      12:00
+    </h2>
+    <p
+      className="sc-iwsKbI fOtSEI"
+    >
+      2019-11-18
+    </p>
+    <h1
+      className="sc-gZMcBi bbajXv"
+    >
+      15
+      °C
+    </h1>
+  </div>
+  <div
+    className="sc-htoDjs BhpKT"
+  >
+    <img
+      alt=""
+      src="http://openweathermap.org/img/wn/10d@2x.png"
+    />
+    <h2
+      className="sc-dnqmqq ficJNe"
+    >
+      15:00
+    </h2>
+    <p
+      className="sc-iwsKbI fOtSEI"
+    >
+      2019-11-18
+    </p>
+    <h1
+      className="sc-gZMcBi bbajXv"
+    >
+      13
+      °C
+    </h1>
+  </div>
+  <div
+    className="sc-htoDjs BhpKT"
+  >
+    <img
+      alt=""
+      src="http://openweathermap.org/img/wn/11d@2x.png"
+    />
+    <h2
+      className="sc-dnqmqq ficJNe"
+    >
+      18:00
+    </h2>
+    <p
+      className="sc-iwsKbI fOtSEI"
+    >
+      2019-11-18
+    </p>
+    <h1
+      className="sc-gZMcBi bbajXv"
+    >
+      11
+      °C
+    </h1>
+  </div>
+</div>
+`;
+
+exports[`Storyshots FutureTemperature default 1`] = `
+<div
+  className="sc-htoDjs BhpKT"
+>
+  <img
+    alt=""
+    src="http://openweathermap.org/img/wn/04d@2x.png"
+  />
+  <h2
+    className="sc-dnqmqq ficJNe"
+  >
+    12:00
+  </h2>
+  <p
+    className="sc-iwsKbI fOtSEI"
+  >
+    2019-11-18
+  </p>
+  <h1
+    className="sc-gZMcBi bbajXv"
+  >
+    15
+    °C
+  </h1>
+</div>
+`;
+
+exports[`Storyshots Loader default 1`] = `
+<i
+  className="sc-bdVaJa cBmIQP fa fa-sun-o fa-spin fa-2x"
+/>
+`;
+
+exports[`Storyshots SearchBar default 1`] = `
+<div
+  className="sc-VigVT eZIqic"
+>
+  <form
+    onSubmit={[Function]}
+  >
+    <input
+      className="sc-jTzLTM eVUHxZ"
+      defaultValue="Wrocław"
+      list="myDatalist"
+      onChange={[Function]}
+      type="text"
+    />
+    <datalist
+      id="myDatalist"
+    >
+      <option
+        value="Wrocław"
+      />
+      <option
+        value="Warszawa"
+      />
+      <option
+        value="Kraków"
+      />
+    </datalist>
+    <button
+      className="sc-fjdhpX ibnYIv"
+      type="submit"
+    >
+      <i
+        className="fa fa-search"
+      />
+    </button>
+  </form>
+</div>
+`;
